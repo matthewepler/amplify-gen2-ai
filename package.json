@@ -1,0 +1,15 @@
+{
+  "name": "amplify-gen2-ai",
+  "private": true,
+  "workspaces": [
+    "webapp",
+    "packages/*"
+  ],
+  "devDependencies": {
+    "turbo": "^2.0.4"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "packageManager": "npm@9.8.0"
+}
